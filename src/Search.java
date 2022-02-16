@@ -97,7 +97,7 @@ public class Search {
         {
             if (array[i] == target)
             {
-                return times++;
+                times++;
             }
         }
         return times;
